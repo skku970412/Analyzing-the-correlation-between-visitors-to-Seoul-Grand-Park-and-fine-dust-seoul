@@ -1,13 +1,6 @@
 # Analyzing the correlation between visitors to Seoul Grand Park and fine dust
 
-이 플젝은 재욱이가 삼성전자 면접 통과할 줄 알고
-조원들이랑 30분컷한 과제입니다.
-제가 깃에서 소스 불펌해서 백본코드 줬어용.
 
-이환님은 저보다 6배 이상 시간을 쓰신듯.
-그런데 과제점수는... 놀랍게도 29/30!!
-
-아쉽게도 코옵 보고서 쓴다고 시험은 못침 
 
 This project was conducted as the final project for the course "Introduction to Data Analysis" at Sungkyunkwan University.
 
